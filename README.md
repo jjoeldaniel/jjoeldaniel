@@ -1,4 +1,4 @@
-# Welcome to my GitHub page!
+# Hi, I'm Joel!
 
 ### Languages I'm Familiar With
 
