@@ -13,3 +13,7 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoeldaniel&layout=compact&hide=cmake&langs_count=6&theme=tokyonight" alt="language usage">
+
+<a>📄 Here's my </a>
+  <a href="https://github.com/jjoeldaniel/jjoeldaniel/blob/main/JoelDanielRico_resume.pdf">resumé</a>
+  <img src="https://img.shields.io/badge/Updated-12--05--22-lightgrey?logoColor=red">
