@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/apache%20maven-%23C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white" /> <img src="https://img.shields.io/badge/firefox%20browser-%23FF7139.svg?&style=for-the-badge&logo=firefox%20browser&logoColor=white" /> <img src="https://img.shields.io/badge/repl.it-%23667881.svg?&style=for-the-badge&logo=repl.it&logoColor=white" /> <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white" /> <img src="https://img.shields.io/badge/stack%20overflow-%23FE7A16.svg?&style=for-the-badge&logo=stack%20overflow&logoColor=white" /> <img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white" /> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/notepad%2B%2B-%2390E59A.svg?&style=for-the-badge&logo=notepad%2B%2B&logoColor=black" /> <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/google-%234285F4.svg?&style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
 
 <br>
-
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoeldaniel&layout=compact&hide=cmake&langs_count=8&theme=tokyonight" alt="language usage">
 
 <h2>
