@@ -12,7 +12,7 @@
 
 <br>
   
-<img src="https://github-readme-stats-jjoeldaniel.vercel.app/api/top-langs/?username=jjoeldaniel&exclude_repo=notes&layout=compact&hide=cmake&langs_count=8&theme=github_dark" alt="language usage">
+<img src="https://github-readme-stats-jjoeldaniel.vercel.app/api/top-langs/?username=jjoeldaniel&exclude_repo=notes&layout=compact&hide=cmake&langs_count=8&theme=github_dark" alt="language usage stats">
 
 <h2>
   Here's my
