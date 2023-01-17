@@ -16,6 +16,6 @@
 
 <h2>
   Here's my
-  <a href="https://github.com/jjoeldaniel/jjoeldaniel/blob/main/JoelDanielRico_resume.pdf">resumé</a>
-  <img src="https://img.shields.io/badge/Updated-12--05--22-lightgrey?logoColor=red">
+  <a href="https://github.com/jjoeldaniel/periodicallyprogramming/blob/main/static/resume.pdf">resumé</a>
+  <img src="https://img.shields.io/badge/Updated-1--17--23-lightgrey?logoColor=red">
 </h2>
