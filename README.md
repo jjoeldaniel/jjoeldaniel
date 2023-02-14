@@ -17,5 +17,5 @@
 <h2>
   Here's my
   <a href="https://github.com/jjoeldaniel/periodicallyprogramming/blob/main/static/resume.pdf">resumé</a>
-  <img src="https://img.shields.io/badge/Updated-1--17--23-lightgrey?logoColor=red">
+  <img src="https://img.shields.io/badge/Updated-2--13--23-lightgrey?logoColor=red">
 </h2>
