@@ -30,11 +30,7 @@
 [![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 <br>
-  
-<img src="https://github-readme-stats-jjoeldaniel.vercel.app/api/top-langs/?username=jjoeldaniel&exclude_repo=notes&layout=compact&hide=cmake,shell,makefile&langs_count=8&theme=tokyonight" alt="language use stats">
 
-<h2>
-  Here's my
-  <a href="https://github.com/jjoeldaniel/periodicallyprogramming/blob/main/static/resume.pdf">resumé</a>
-  <img src="https://img.shields.io/badge/Updated-2--13--23-lightgrey?logoColor=red">
-</h2>
+![language use stats](https://github-readme-stats-jjoeldaniel.vercel.app/api/top-langs/?username=jjoeldaniel&exclude_repo=notes&layout=compact&hide=cmake,shell,makefile&langs_count=8&theme=tokyonight)
+
+## Here's my [resumé](https://github.com/jjoeldaniel/periodicallyprogramming/blob/main/static/resume.pdf) ![Updated on 2-13-23](https://img.shields.io/badge/Updated-2--13--23-lightgrey?logoColor=red)
