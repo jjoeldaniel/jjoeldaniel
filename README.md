@@ -1,6 +1,6 @@
 ## Hey, Joel here! :wave:
 
-<img align="right" width="40%" src="https://github-readme-stats-jjoeldaniel.vercel.app/api/top-langs/?username=jjoeldaniel&exclude_repo=notes&layout=compact&hide=cmake,shell,makefile&langs_count=8&theme=transparent&hide_border=true">
+<img align="right" width="40%" src="https://github-readme-stats-jjoeldaniel.vercel.app/api/top-langs/?username=jjoeldaniel&exclude_repo=notes&layout=compact&hide=cmake,shell,makefile&langs_count=8&theme=calm&hide_border=true">
 
 I'm Joel, an undergraduate student at CSUF.
 
