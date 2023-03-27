@@ -6,7 +6,7 @@
 
 I'm Joel, an undergraduate student at CSUF.
 
--   :hammer_and_pick: Rust / Python / Java / JavaScript
+-   :hammer_and_pick: Rust / Python / C++ / Java / JavaScript
 -   :pencil2: [VSCode](https://code.visualstudio.com/) / [Jetbrains IDEs](https://www.jetbrains.com/) / [Linux](https://github.com/torvalds/linux) / [Neovim](https://neovim.io/)
 -   :thought_balloon: Add me on Discord at `joel#0005`
 
