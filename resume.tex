@@ -1,0 +1,192 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Joel Daniel Rico} \\ \vspace{1pt}
+    \small \href{mailto:joeldanielrico@csu.fullerton.edu.com}{\underline{joeldanielrico@csu.fullerton.edu}} $|$ 
+    \href{https://linkedin.com/in/joeldanielrico}{\underline{linkedin.com/in/joeldanielrico}} $|$
+    \href{https://github.com/jjoeldaniel}{\underline{github.com/jjoeldaniel }}
+\end{center}
+
+
+%-----------CAREER OBJECTIVE-----------
+\section{Career Objective}
+  Aspiring Software Engineer with a passion for problem-solving and solution-based programming. Strong
+  work ethic with proficiency in communication in team-based environments.
+
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {California State University, Fullerton}{Fullerton, CA}
+      {Bachelor of Science in Computer Science}{Aug. 2023 -- Dec. 2025}
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{JPass} $|$ \emph{Python, Flask, Postgres, JavaScript, Vercel}}{Feb. 2023 -- Present}
+          \resumeItemListStart
+            \resumeItem{Developed a password manager for securely storing user passwords with \textbf{bcrypt}, a password-hashing function}
+            \resumeItem{Implemented login and signup flow with OpenID and OAuth support for Google and Email authentication}
+            \resumeItem{Created accessible, mobile-friendly web user interface}
+            \resumeItem{Built with Python and Flask framework, with a relational database for storing encrypted user passwords}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{keyphrases.rs} $|$ \emph{Rust}}{March 2023 -- Present}
+          \resumeItemListStart
+            \resumeItem{Developed an open-source library for efficient and accurate extraction of keywords from large volumes of text}
+            \resumeItem{Implemented Rapid Automatic Keyword Extraction (RAKE) algorithm}
+            \resumeItem{Designed the library to be flexible, customizable, and scalable, allowing users to adjust the library's parameters and configurations to fit their needs}
+            \resumeItem{Optimized the library's performance and memory usage to ensure efficient processing of large volumes of text data}
+            \resumeItem{Contributed to the open-source community by sharing the library's source code and documentation on GitHub and crates.io}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Trends Analysis} $|$ \emph{Python, KeyBERT}}{Jan. 2022 -- Present}
+          \resumeItemListStart
+            \resumeItem{Conducted data analysis on a Discord server with over 1,000 members to 
+identify trends and patterns in user behavior}
+            \resumeItem{Identified key trends and patterns in user activity, including peak hours of usage, most popular channels, and frequently used words and phrases}
+            \resumeItem{Utilized KeyBERT for keyword extraction}
+            \resumeItem{Extracted relevant data using Discord API and web scraping techniques to collect information on user activity, message content, and channel usage}
+            \resumeItem{Visualized data using charts, graphs, and other visualization tools to highlight trends and patterns in user behavior}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Genius API Wrapper} $|$ \emph{Python, Requests, Web Scraping}}{Dec. 2022 -- Jan. 2023}
+          \resumeItemListStart
+            \resumeItem{Developed a Python-based Genius API wrapper to facilitate access to the Genius lyrics database, enabling users to search for and retrieve lyrics and other song-related data}
+            \resumeItem{Published on Python Package Index (PyPI), resulting in over 5,000 downloads and numerous positive reviews and feedback from users}
+            \resumeItem{Utilized Requests HTTP library to communicate with Genius REST API}
+            \resumeItem{Tested and validated accuracy and effectiveness in retrieving relevant and up-to-date song data, including lyrics, album art, artist information, and song metadata}
+            \resumeItem{Implemented the API wrapper to provide a range of functionality, including searching for song lyrics, retrieving song metadata, and accessing song annotations and explanations}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Rust, Python, Java, C++, JavaScript, HTML, CSS, SQL (Postgres, SQLite) } \\
+     \textbf{Tools}{: Git, Docker, Flask, FastAPI, {\fontfamily{lmr}\selectfont\LaTeX}} \\
+    }}
+ \end{itemize}
+
+
+ %-----------EXTRACURRICULAR-----------
+\section{Extracurricular}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Association For Computing Machinery (ACM) } $|$ \emph{Member, Contributor}}{Aug. 2022 -- Present}
+          \resumeItemListStart
+            \resumeItem{Co-organized a hackathon event, attracting over 150 applicants and 9 sponsors}
+            \resumeItem{Developed various open-source tools used by club members}
+            \resumeItem{Attended workshops and networked with other members}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}
