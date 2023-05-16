@@ -14,7 +14,7 @@ Make sure to check out some of the tools I've created!
 - 🎵 [Python Genius API Wrapper](https://pypi.org/project/geniusdotpy/)
 
 <a>📄 Here's my </a>
-<a href="https://github.com/jjoeldaniel/jjoeldaniel/blob/main/resume.pdf">resumé</a>
+<a href="https://github.com/jjoeldaniel/resume/blob/main/resume.pdf">resumé</a>
 <img src="https://img.shields.io/badge/Updated-03--31--23-lightgrey?logoColor=red">
 
 ---
