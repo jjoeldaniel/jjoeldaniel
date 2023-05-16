@@ -13,4 +13,8 @@ Make sure to check out some of the tools I've created!
 - 🔐 [Rapid Automatic Keyword Extraction (RAKE) implementation in Rust](https://crates.io/crates/keyphrases)
 - 🎵 [Python Genius API Wrapper](https://pypi.org/project/geniusdotpy/)
 
+<a>📄 Here's my </a>
+<a href="https://github.com/jjoeldaniel/jjoeldaniel/blob/main/resume.pdf">resumé</a>
+<img src="https://img.shields.io/badge/Updated-03--31--23-lightgrey?logoColor=red">
+
 ---
