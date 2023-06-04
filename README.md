@@ -5,7 +5,6 @@
 I'm Joel, an undergraduate Computer Science student at CSUF.
 
 - 🧰 Rust / Python / C++ / Java / JavaScript
-- 📘 [VSCode](https://code.visualstudio.com/) / [Jetbrains IDEs](https://www.jetbrains.com/) / [Linux](https://github.com/torvalds/linux) / [Neovim](https://neovim.io/)
 - 💭 Add me on Discord at `joel#0005`
 
 Make sure to check out some of the tools I've created!
