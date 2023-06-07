@@ -5,7 +5,7 @@
 I'm Joel, an undergraduate Computer Science student at CSUF.
 
 - 🧰 Rust / Python / C++ / Java / JavaScript
-- 💭 Add me on Discord at `joel#0005`
+- 💭 Add me on Discord at `jjoeldaniel`
 
 Make sure to check out some of the tools I've created!
 
