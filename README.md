@@ -14,6 +14,6 @@ Make sure to check out some of the tools I've created!
 
 <a>📄 Here's my </a>
 <a href="https://github.com/jjoeldaniel/resume/blob/main/resume.pdf">resumé</a>
-<img src="https://img.shields.io/badge/Updated-10--02--23-lightgrey?logoColor=red">
+<img src="https://img.shields.io/badge/Updated-12--29--23-lightgrey?logoColor=red">
 
 ---
