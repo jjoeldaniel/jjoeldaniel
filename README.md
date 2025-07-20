@@ -9,7 +9,7 @@ working with the ArcGIS Notebooks team!
 
 <ul>
   <li>🏢 Connect with me on LinkedIn at <a href="https://linkedin.com/in/joeldanielrico">linkedin.com/in/joeldanielrico</a>!</li>
-  <li>💭 Add me on Discord at `jjoeldaniel`</li>
+  <li>💭 Add me on Discord at <code>jjoeldaniel</code>
 </ul>
 
 Make sure to check out some of the tools I've created!
