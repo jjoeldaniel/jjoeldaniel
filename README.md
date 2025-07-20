@@ -1,6 +1,6 @@
 ## Hey, Joel here! :wave:
 
-<a href="https://joeldanielrico.com" target="_blank">
+<a href="https://joeldaniel.dev" target="_blank">
   <img align="right" width="30%" alt="favicon2" src="https://github.com/user-attachments/assets/047c62ad-a848-4fbe-a288-9dc0c38f778b" />
 </a>
 
