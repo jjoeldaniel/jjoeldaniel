@@ -1,11 +1,16 @@
 ## Hey, Joel here! :wave:
 
-<img align="right" width="40%" src="https://github-readme-stats-jjoeldaniel.vercel.app/api/top-langs/?username=jjoeldaniel&exclude_repo=notes&layout=compact&hide=cmake,shell,makefile&langs_count=8&theme=calm&hide_border=true">
+<a href="https://joeldanielrico.com" target="_blank">
+  <img align="right" width="30%" alt="favicon2" src="https://github.com/user-attachments/assets/047c62ad-a848-4fbe-a288-9dc0c38f778b" />
+</a>
 
-I'm Joel, an undergraduate Computer Science student at California State University, Fullerton.
+I'm Joel, a senior studying Computer Science at California State University, Fullerton. I'm currently interning @ Esri as a Product Engineering Intern,
+working with the ArcGIS Notebooks team!
 
-- 🧰 Rust / Python / C++ / Java / JavaScript
-- 💭 Add me on Discord at `jjoeldaniel`
+<ul>
+  <li>🏢 Connect with me on LinkedIn at <a href="https://linkedin.com/in/joeldanielrico">linkedin.com/in/joeldanielrico</a>!</li>
+  <li>💭 Add me on Discord at `jjoeldaniel`</li>
+</ul>
 
 Make sure to check out some of the tools I've created!
 
